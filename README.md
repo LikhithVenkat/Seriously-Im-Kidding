@@ -1,4 +1,4 @@
-# Seriously-I-m-Kidding
+# Seriously I'm Kidding
 
 This innovative Q&A platform brings a touch of humor to your inquiries, serving up sarcastic responses that will have you in stitches. Whether you're looking for a clever answer to life's everyday problems or just need a laugh, This site has got you covered. So why settle for a boring, straightforward answer when you can have a witty one with a Pinch of Salt? Seriously, I'm Kidding!
 
