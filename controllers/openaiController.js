@@ -25,7 +25,7 @@ const AskQ = async (req,res) => {
     } catch(error) {
         res.status(400).json({
             success: false,
-            error: 'The image could not be generated'
+            error: 'Stop asking questions like this!'
         });
         if(error.response) {
             console.log("error")
